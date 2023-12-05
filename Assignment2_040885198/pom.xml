@@ -30,7 +30,7 @@
     <!-- code properties -->
   
     <slf4j.version>1.7.25</slf4j.version>
-    <logback.version>1.2.3</logback.version>
+    <logback.version>1.2.13</logback.version>
     <javaee.api.version>8.0</javaee.api.version>
     <faces.version>2.3.9</faces.version>
     <cdi-api.version>2.0</cdi-api.version>
